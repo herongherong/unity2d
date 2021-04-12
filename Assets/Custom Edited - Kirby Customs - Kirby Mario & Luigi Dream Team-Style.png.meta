@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: cdda11605655f074b9e97d0558e1c74f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4350283667873737742
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_0
+  - first:
+      213: -2942176475620759039
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_1
+  - first:
+      213: 3233268647440186664
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_2
+  - first:
+      213: -1079068303275959109
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_3
+  - first:
+      213: -3063606291632600001
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_4
+  - first:
+      213: 4900395417678311365
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_5
+  - first:
+      213: 1199219090114809055
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_6
+  - first:
+      213: 2136323298837501777
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_7
+  - first:
+      213: 1614631177738626075
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_8
+  - first:
+      213: 2520724107620783985
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_9
+  - first:
+      213: -3143745951444559731
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_10
+  - first:
+      213: 2662330029084225691
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_11
+  - first:
+      213: -2476339669960950994
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_12
+  - first:
+      213: -3098077232785630202
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_13
+  - first:
+      213: -7742605356174833082
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_14
+  - first:
+      213: 4766385175724873633
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_15
+  - first:
+      213: 150799468590989430
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_16
+  - first:
+      213: -8318411818429783333
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_17
+  - first:
+      213: -8709540502656432454
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_18
+  - first:
+      213: 770562689585025616
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_19
+  - first:
+      213: -4878566155030213107
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_20
+  - first:
+      213: 2544288555894006118
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_21
+  - first:
+      213: 4093228779687202757
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_22
+  - first:
+      213: 5222373582262258917
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_23
+  - first:
+      213: 7414996681915107522
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_24
+  - first:
+      213: -2905913564981759044
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_25
+  - first:
+      213: 8220620627699923932
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_26
+  - first:
+      213: -5280758703917108377
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_27
+  - first:
+      213: 1924174460913250605
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_28
+  - first:
+      213: 255874951035228046
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_29
+  - first:
+      213: -1852517402759415043
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_30
+  - first:
+      213: 5164490935314799750
+    second: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3d3388d00b0a3c0800000000000000
+      internalID: -4350283667873737742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a2d10751a4b27d0800000000000000
+      internalID: -2942176475620759039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d741a44b0eedc20800000000000000
+      internalID: 3233268647440186664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc5ad668116601f0800000000000000
+      internalID: -1079068303275959109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c46973f42eb75d0800000000000000
+      internalID: -3063606291632600001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfeaa14ba3b10440800000000000000
+      internalID: 4900395417678311365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc0922a86b74a010800000000000000
+      internalID: 1199219090114809055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1579998b8beb5ad10800000000000000
+      internalID: 2136323298837501777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14a1606082586610800000000000000
+      internalID: 1614631177738626075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177108378396bf220800000000000000
+      internalID: 2520724107620783985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881314a6bb2f54d0800000000000000
+      internalID: -3143745951444559731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90bb6a4e0f72f420800000000000000
+      internalID: 2662330029084225691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bf4ccb03642add0800000000000000
+      internalID: -2476339669960950994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c561dcb2b6105d0800000000000000
+      internalID: -3098077232785630202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a892d537dbc8490800000000000000
+      internalID: -7742605356174833082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Kirby Mario & Luigi Dream Team-Style_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 39
+        width: 36
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d4cd501a952240800000000000000
+      internalID: 4766385175724873633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
